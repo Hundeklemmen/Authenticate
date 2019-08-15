@@ -1,0 +1,6 @@
+name: Authenticate
+main: hundeklemmen.authenticate.MainPlugin
+version: "1.0"
+description: "Authenticate players to check if their UUID and Username is real"
+website: "http://Hundeklemmen.com/"
+author: Hundeklemmen
