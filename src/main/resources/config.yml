@@ -1,0 +1,5 @@
+#Messages
+#mojangError have following placeholders: %error% and %errorMessage%
+requestError: "&cUnable to authenticate - no data provided from the Mojang API"
+mojangError: "&cUnable to authenticate - %error%"
+invalidData: "&cUnable to authenticate - Username and Uuid is not matching"
